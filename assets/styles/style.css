@@ -217,7 +217,7 @@ li {
 
 .section_4 {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(640px, 1fr));
     grid-template-rows: repeat(2, 100px);
     margin: 30px;
 }
